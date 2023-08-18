@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "editorError.foreground": "#000000ff",
+        "editorInfo.foreground": "#000000ff",
+        "editorWarning.foreground": "#000000ff",
+        "panel.border": "#ff8bbc",
+        "sash.hoverBorder": "#ff8bbc",
+        "sideBar.border": "#ff8bbc",
+        "tab.activeBorder": "#ff8bbc",
+        "titleBar.activeBackground": "#ff589e",
+        "titleBar.border": "#ff589e",
+        "titleBar.inactiveBackground": "#ff589e99"
+    }
+}
